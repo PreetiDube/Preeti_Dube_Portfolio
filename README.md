@@ -64,7 +64,7 @@ A forecasting case study exploring demand patterns and forecast-versus-actual pe
 
 Explore my portfolio website for project details, case studies, certifications, and contact information.
 
-**Portfolio:** Add your deployed website URL here.
+**Portfolio:** https://preetidube.github.io/Preeti_Dube_Portfolio/
 
 ## ✦ CONNECT WITH ME
 
