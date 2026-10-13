@@ -1,19 +1,77 @@
-PREETI DUBE PORTFOLIO — REFINED BURGUNDY / BLACK / CREAM VERSION
+# ✦ PREETI DUBE
 
-This version preserves the original website's overall navigation, hero, About/Skills, project cards, case study, contact section, and interactions while refining the Education, Experience, Projects, and Certifications styling.
+### AI/ML Engineer · Data Engineering · Analytics
 
-FILES
-- index.html: website content and links
-- style.css: colors, layout, responsive styling
-- script.js: menu, scroll behavior, contact dialog, and effects
-- assets/: original local images, logos, and project thumbnails
-- certificates/: the certificate PDFs and images you supplied
-- Preeti_Dube_Resume.pdf: existing resume used by the Download Resume button
+**Transforming Data into Intelligent Solutions with AI & Analytics.**
 
-CERTIFICATES
-The Certifications section shows a compact provider mark, certificate name, and View Certificate link. Clicking the link opens the original local PDF or image in a new tab. Keep the certificates folder alongside index.html.
+I build data pipelines, machine learning applications, and analytics solutions that turn raw data into meaningful insights.
 
-EDITING
-Open index.html and style.css in a code editor. If you rename any certificate file, update the matching href in the Certifications section. To preview locally, open index.html in a browser.
+[Portfolio](#portfolio) · [Projects](#featured-projects) · [LinkedIn](#connect-with-me) · [GitHub](#connect-with-me)
 
-Before publishing online, replace placeholder GitHub URLs with your real repositories and verify all achievement metrics and project claims.
+---
+
+## ✦ ABOUT ME
+
+I'm an AI and Data professional with an MCA specialization in Artificial Intelligence and Machine Learning. I enjoy building end-to-end data solutions, exploring machine learning techniques, and transforming complex datasets into useful business insights.
+
+- 🎓 MCA — Artificial Intelligence & Machine Learning
+- ☁️ Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- 🛠️ Focus areas: Data Engineering, Machine Learning, and Analytics
+- 📍 India
+
+## ✦ TECH STACK
+
+**Programming:** Python · SQL · Java · C/C++
+
+**Data Engineering:** Azure Data Factory · Azure Databricks · PySpark · Delta Lake · ADLS Gen2
+
+**AI & Machine Learning:** Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
+
+**Analytics & Tools:** Power BI · Tableau · Excel · Git · GitHub
+
+## ✦ FEATURED PROJECTS
+
+### 1. Movie Recommendation System
+A content-based movie recommendation application built with Python and machine learning.
+
+**Technologies:** Python · Pandas · Scikit-learn · KNN · Streamlit
+
+### 2. End-to-End Data Pipeline
+An Azure-based pipeline project focused on data ingestion, transformation, and analytics-ready datasets.
+
+**Technologies:** Azure Data Factory · Azure Data Lake Storage Gen2 · PySpark
+
+### 3. Lakehouse Architecture
+A Lakehouse implementation using the Medallion architecture to organize data across Bronze, Silver, and Gold layers.
+
+**Technologies:** Azure Databricks · Delta Lake · PySpark
+
+### 4. Smart Demand Forecasting
+A forecasting case study exploring demand patterns and forecast-versus-actual performance.
+
+**Technologies:** Python · Data Analysis · Forecasting · Visualization
+
+## ✦ CERTIFICATIONS
+
+- Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- IBM Artificial Intelligence Fundamentals
+- IBM Getting Started with Enterprise-grade AI
+- Python Programming Course — Scaler
+- Data Visualization — TATA / Forage
+- Excel Skills Job Simulation — JPMorgan Chase & Co.
+
+## ✦ PORTFOLIO
+
+Explore my portfolio website for project details, case studies, certifications, and contact information.
+
+**Portfolio:** Add your deployed website URL here.
+
+## ✦ CONNECT WITH ME
+
+- **GitHub:** https://github.com/PreetiDube
+- **LinkedIn:** https://www.linkedin.com/in/preetidube02
+- **Email:** dubepreeti02@gmail.com
+
+---
+
+*Continuously learning, building, and improving through practical AI and data projects.*
